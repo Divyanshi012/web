@@ -314,11 +314,11 @@ img {
   width: 85%;
 }
 .skills__img {
-  position: absolute;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  width: 260px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 }
 
 /* ===== Certifications =====*/
